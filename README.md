@@ -1,7 +1,8 @@
-### Olá! Eu sou o Kaue 🖐️
+### Olá🖐️ finalmente criei vergonha na cara e comecei a por as coisas no meu github
 [![Itch](https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)](https://kakau02.itch.io/)
 
 ![Kaue GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaue-cl&show_icons=true&theme=github_dark )
+![Kaue GitHub lenguages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaue-cl&layout=compact)
 
 ### Tecnologias utilizadas no dia a dia
 <div style = "display:inline_block"><br/>
