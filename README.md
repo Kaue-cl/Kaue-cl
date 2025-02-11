@@ -12,7 +12,7 @@
 
 
 ### Pelo visto n criei vergonha na cara não kkkk, mas aqui tem uns projetos legais que fiz com o pessoal da faculdade:
-# https://github.com/SrtaAssis/orcamento => https://srtaassis.github.io/orcamento
-# https://github.com/SrtaAssis/simulador-pipeline => https://srtaassis.github.io/simulador-pipeline/
-# https://github.com/SrtaAssis/maratona-crypti => https://srtaassis.github.io/maratona-crypti/
-# https://github.com/SrtaAssis/ProjetoSoftwareCopaDoMundo
+#### https://github.com/SrtaAssis/orcamento => https://srtaassis.github.io/orcamento
+#### https://github.com/SrtaAssis/simulador-pipeline => https://srtaassis.github.io/simulador-pipeline/
+#### https://github.com/SrtaAssis/maratona-crypti => https://srtaassis.github.io/maratona-crypti/
+#### https://github.com/SrtaAssis/ProjetoSoftwareCopaDoMundo
